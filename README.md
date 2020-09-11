@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <center><img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif?vid=1" height = "450" width="700" align="center"></center>
+  <center><img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height = "450" width="700" align="center"></center>
 </div>
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate Web developer from India</h3>

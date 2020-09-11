@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/nacroptic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nacroptic" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/prakash-n-516a81176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prakash-n-516a81176" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/prakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="prakash" height="30" width="30" /></a>
+<a href="https://instagram.com/_.prak_ash._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.prak_ash._" height="30" width="30" /></a>
 </p>

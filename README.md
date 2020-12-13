@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **LAMP**
 
-- 📫 How to reach me **prak30ash@gmail.com**
+- 📫 How to reach me **nprakash3008@gmail.com**
 
 - ⚡ Fun fact **I know how to google.**
 

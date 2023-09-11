@@ -67,6 +67,8 @@ Here are some ideas to get you started:
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="50"/> </a>
   <a href="https://azure.microsoft.com/en-in" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="50"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="50"/> </a>
+
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash3008&layout=compact&theme=dark" alt="prakash3008" /></p>

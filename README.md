@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/prakash_3011" target="blank"><img src="https://img.shields.io/twitter/follow/prakash_3011?logo=twitter&style=for-the-badge" alt="prakash_3011" /></a> </p>
 
-- 🔭 I’m currently working on **Flask**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **LAMP**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nprakash3008@gmail.com**
 
@@ -65,7 +65,9 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-</p>
+  <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="50"/> </a>
+  <a href="https://azure.microsoft.com/en-in" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="azure" width="40" height="50"/> </a>
+  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash3008&layout=compact&theme=dark" alt="prakash3008" /></p>
 <br></br>

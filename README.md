@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <center><img src="https://camo.githubusercontent.com/0ecfd68856bedf2d56070afe2e2ff89780b1980a/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966" height = "450" width="700" align="center"></center>
+  <center><img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NjE1NTUsIm5iZiI6MTcyNzk2MTI1NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDEzMTQxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyNzM5ZDk4NzdkZjNmNDQ4MjM0Mzk0MDU0NjMwNTQyYjAzZTk3NzM4ZDE4OGUzOTJkZTU2YTE1MzJhY2YwNTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UXwdC-QPL_4MF2zzVBWckoEYsMlMRoFNWj3lpJbiNOQ" height = "450" width="700" align="center"></center>
 </div>
-<h1 align="center">Hi 👋, I'm Prakash</h1>
+<h1 align="center">Hi 👋, I'm Prakash Narasimhan</h1>
 <h3 align="center">A passionate Software developer and a Cyber Security enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash3008&label=Profile%20views&color=0e75b6&style=flat" alt="prakash3008" /> </p>

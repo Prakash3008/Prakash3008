@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <center>
-  <h1 align="center">Hi 👋, I'm Prakash Narasimhan</h1> <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="40" height="40" align="center"></img>
+  <h1 align="center">Hi 👋, I'm Prakash Narasimhan</h1> <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="60" height="60" align="center"></img>
     </center>
 </div>
 <h3 align="center">A passionate Software developer and a Cyber Security enthusiast</h3>

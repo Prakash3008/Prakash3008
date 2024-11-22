@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning 
 
 <!--- 💬 Ask me about **MERN** -->
 

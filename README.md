@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/prakash_3011" target="blank"><img src="https://img.shields.io/twitter/follow/prakash_3011?logo=twitter&style=for-the-badge" alt="prakash_3011" /></a> </p>
 
-- 🔭 I’m currently working on **HTTP3/QUIC**
+- 🔭 I’m currently working on **Kubernetes**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **HTTP3/QUIC**
 
 <!--- 💬 Ask me about **MERN** -->
 

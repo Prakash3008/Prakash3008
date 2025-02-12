@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Kubernetes**
 
-- 🌱 I’m currently learning **HTTP3/QUIC**
+- 🌱 I’m currently learning **HTTP3/QUIC and Go**
 
 <!--- 💬 Ask me about **MERN** -->
 
